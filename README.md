@@ -1,3 +1,2 @@
 # hello-world
-tutorial repo
-editing this readme file
+new macbook readme file
